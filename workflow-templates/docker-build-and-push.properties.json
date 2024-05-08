@@ -1,12 +1,4 @@
 {
     "name": "docker-build-and-push",
-    "description": "docker-build-and-push.",
-    "iconName": "octicon smiley",
-    "categories": [
-        "continuous-integration"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile"
-    ]
+    "description": "docker-build-and-push."
 }
