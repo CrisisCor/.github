@@ -3,7 +3,7 @@
     "description": "docker-build-and-push.",
     "iconName": "octicon smiley",
     "categories": [
-        "Docker"
+        "continuous-integration"
     ],
     "filePatterns": [
         "package.json$",
